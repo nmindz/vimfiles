@@ -1,0 +1,13 @@
+git submodule add https://github.com/ekalinin/Dockerfile.vim.git bundle/Dockerfile
+git submodule add https://github.com/2072/PHP-Indenting-for-VIm.git bundle/PHP-Indenting-for-VIm
+git submodule add https://github.com/kien/ctrlp.vim.git bundle/ctrlp.vim
+git submodule add https://github.com/Xuyuanp/nerdtree-git-plugin.git bundle/nerdtree-git-plugin
+git submodule add https://github.com/tiagofumo/vim-nerdtree-syntax-highlight.git bundle/nerdtree-syntax-highlight
+git submodule add https://github.com/preservim/nerdtree.git bundle/nerdtree
+git submodule add https://github.com/vim-airline/vim-airline-themes.git bundle/vim-airline-themes
+git submodule add https://github.com/vim-airline/vim-airline.git bundle/vim-airline
+git submodule add https://github.com/jwalton512/vim-blade.git bundle/vim-blade
+git submodule add https://github.com/jeetsukumaran/vim-buffergator.git bundle/vim-buffergator
+git submodule add https://github.com/ryanoasis/vim-devicons.git bundle/vim-devicons
+git submodule add https://github.com/leshill/vim-json.git bundle/vim-json.vim
+git submodule add https://github.com/dracula/vim.git bundle/dracula

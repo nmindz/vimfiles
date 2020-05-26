@@ -1,0 +1,13 @@
+rm -rf bundle/Dockerfile
+rm -rf bundle/PHP-Indenting-for-VIm
+rm -rf bundle/ctrlp.vim
+rm -rf bundle/nerdtree-git-plugin
+rm -rf bundle/nerdtree-syntax-highlight
+rm -rf bundle/nerdtree
+rm -rf bundle/vim-airline-themes
+rm -rf bundle/vim-airline
+rm -rf bundle/vim-blade
+rm -rf bundle/vim-buffergator
+rm -rf bundle/vim-devicons
+rm -rf bundle/vim-json.vim
+rm -rf bundle/dracula

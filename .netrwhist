@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/evandrocamargo/Desktop/eregion/.git'
+let g:netrw_dirhist_2='/Users/evandrocamargo'
+let g:netrw_dirhist_3='/Users/evandrocamargo/.tmux'
+let g:netrw_dirhist_4='/Users/evandrocamargo/Projects/torbjorn/php-debian'
+let g:netrw_dirhist_5='/Users/evandrocamargo/Projects/shakuras/database/migrations'
