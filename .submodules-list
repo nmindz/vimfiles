@@ -1,6 +1,6 @@
 git submodule add https://github.com/ekalinin/Dockerfile.vim.git bundle/Dockerfile
 git submodule add https://github.com/2072/PHP-Indenting-for-VIm.git bundle/PHP-Indenting-for-VIm
-git submodule add https://github.com/kien/ctrlp.vim.git bundle/ctrlp.vim
+git submodule add https://github.com/ctrlpvim/ctrlp.vim bundle/ctrlp.vim
 git submodule add https://github.com/Xuyuanp/nerdtree-git-plugin.git bundle/nerdtree-git-plugin
 git submodule add https://github.com/tiagofumo/vim-nerdtree-syntax-highlight.git bundle/nerdtree-syntax-highlight
 git submodule add https://github.com/preservim/nerdtree.git bundle/nerdtree
